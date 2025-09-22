@@ -4,6 +4,11 @@ This is a Python game where an AI-controlled dot learns to collect letters in th
 
 ---
 
+<p align="center">
+  <img src="ai_example.gif" alt="Example GIF">
+</p>
+
+---
 ## Features
 
 - **AI Agent:** A dot controlled by a Deep Q-Learning agent.
