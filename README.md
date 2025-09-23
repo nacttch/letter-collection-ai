@@ -31,6 +31,6 @@ This is a Python game where an AI-controlled dot learns to collect letters in th
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/letter-collection-ai.git
+git clone https://github.com/nacttch/letter-collection-ai.git
 cd letter-collection-ai
 python ai.py
